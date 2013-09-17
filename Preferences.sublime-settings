@@ -1,26 +1,29 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
+	"color_scheme": "Packages/Cool Code Scheme/CodeSchool.tmTheme",
 	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
 	"find_selected_text": true,
 	"font_face": "Panic Sans",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 14.0,
+	"font_size": 9,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage",
+		"Theme - Phoenix",
 		"SublimeCodeIntel"
 	],
 	"line_padding_bottom": 0.5,
+	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
-		80,
-		90
+		70,
+		80
 	],
 	"save_on_focus_lost": false,
 	"tab_size": 2,
