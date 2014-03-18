@@ -1,22 +1,20 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Cool Code Scheme/CodeSchool.tmTheme",
-	"draw_white_space": "all",
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Eighties-Piatto.tmTheme",
+	"draw_white_space": "none",
 	"ensure_newline_at_eof_on_save": true,
 	"find_selected_text": true,
-	"font_face": "Panic Sans",
+	"font_face": "Anonymous Pro",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 9,
+	"font_size": 11,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Theme - Phoenix",
-		"SublimeCodeIntel"
+		"Vintage"
 	],
 	"line_padding_bottom": 0.5,
 	"overlay_scroll_bars": "enabled",
@@ -25,9 +23,8 @@
 		70,
 		80
 	],
-	"save_on_focus_lost": false,
 	"tab_size": 2,
-	"theme": "Soda Dark.sublime-theme",
+	"theme": "Piatto Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
