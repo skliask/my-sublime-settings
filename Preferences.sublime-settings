@@ -1,21 +1,22 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Eighties-Piatto.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/TomorrowNightEightiesSpacegray (SL).tmTheme",
 	"draw_white_space": "none",
 	"ensure_newline_at_eof_on_save": true,
 	"find_selected_text": true,
-	"font_face": "Anonymous Pro",
+	"font_face": "Source Code Pro",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 11,
+	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"index_files": true,
 	"line_padding_bottom": 0.5,
 	"overlay_scroll_bars": "enabled",
 	"rulers":
@@ -24,7 +25,7 @@
 		80
 	],
 	"tab_size": 2,
-	"theme": "Piatto Dark.sublime-theme",
+	"theme": "Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
