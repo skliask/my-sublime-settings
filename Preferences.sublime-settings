@@ -1,13 +1,17 @@
 {
+	"auto_match_enabled": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/TomorrowNightEightiesSpacegray (SL).tmTheme",
+	"color_scheme": "Packages/User/TomorrowNightEightiesSpacegray (SL).tmTheme",
+	"detect_indentation": false,
 	"draw_white_space": "none",
+	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
 	"find_selected_text": true,
-	"font_face": "Source Code Pro",
+	"font_face": "Anonymous Pro",
 	"font_options":
 	[
-		"subpixel_antialias"
+		"subpixel_antialias",
+		"no_round"
 	],
 	"font_size": 12,
 	"highlight_line": true,
@@ -17,15 +21,22 @@
 		"Vintage"
 	],
 	"index_files": true,
-	"line_padding_bottom": 0.5,
+	"line_padding_bottom": 1,
 	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
 		70,
 		80
 	],
+	"spacegray_sidebar_font_small": true,
+	"spacegray_sidebar_tree_small": true,
+	"spacegray_tabs_auto_width": true,
+	"spacegray_tabs_font_small": true,
+	"spacegray_tabs_small": true,
+	"tab_completion": false,
 	"tab_size": 2,
 	"theme": "Spacegray.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "auto"
 }
