@@ -1,13 +1,29 @@
 {
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Alignment",
+		"All Autocomplete",
 		"BeautifyRuby",
-		"ERB Insert and Toggle Commands",
+		"Better CoffeeScript",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Emmet",
+		"Focus File on Sidebar",
+		"GitGutter",
+		"GitSyntaxes",
+		"Haml",
+		"HTMLBeautify",
 		"Package Control",
-		"RSpec",
+		"Rails Latest Migration",
+		"SideBarEnhancements",
 		"SublimeCodeIntel",
-		"Theme - Soda",
-		"Tomorrow Color Schemes"
+		"SublimeLinter",
+		"SublimeLinter-ruby",
+		"Tabright",
+		"Theme - Spacegray"
 	]
 }
