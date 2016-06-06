@@ -3,7 +3,7 @@
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/TomorrowNightEightiesSpacegray (SL).tmTheme",
 	"detect_indentation": false,
-	"draw_white_space": "none",
+	"draw_white_space": "all",
 	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
 	"find_selected_text": true,
@@ -13,7 +13,7 @@
 		"subpixel_antialias",
 		"no_round"
 	],
-	"font_size": 12,
+	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -28,7 +28,8 @@
 		70,
 		80
 	],
-	"spacegray_sidebar_font_small": true,
+	"scroll_past_end": false,
+	"spacegray_sidebar_font_normal": true,
 	"spacegray_sidebar_tree_small": true,
 	"spacegray_tabs_auto_width": true,
 	"spacegray_tabs_font_small": true,
