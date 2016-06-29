@@ -1,7 +1,7 @@
 {
 	"auto_match_enabled": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/TomorrowNightEightiesSpacegray (SL).tmTheme",
+	"color_scheme": "Packages/User/Oceanic Next.tmTheme",
 	"detect_indentation": false,
 	"draw_white_space": "all",
 	"enable_tab_scrolling": false,
@@ -19,6 +19,11 @@
 	"ignored_packages":
 	[
 		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
 	],
 	"index_files": true,
 	"line_padding_bottom": 1,
